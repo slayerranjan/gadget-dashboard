@@ -10,8 +10,8 @@ Built using Tableau, this dashboard analyzes sales performance, regional profita
 ## 📈 Dashboard Overview
 
 ### 1. Sales Over Time
-- **Insight**: Visualizes yearly sales trends from 2021 to 2023
-- **Highlight**: Recovery after 2021 dip shows business momentum
+- **Insight**: Visualizes yearly sales trends from 2022 to 2025
+- **Highlight**: Recovery after 2023 dip shows business momentum
 
 ### 2. Profit by Region
 - **Insight**: Compares profitability across segments in Canada and US
@@ -35,5 +35,8 @@ Built using Tableau, this dashboard analyzes sales performance, regional profita
 This dashboard is part of my portfolio for securing a Data Analysis Apprenticeship at Google. It reflects my ability to turn raw data into actionable business insights.
 
 ## 📎 Dashboard Link
-👉 [View on Tableau Public](https://public.tableau.com/app/profile/yourusername/viz/GadgetDashboardSalesProfitDiscountAnalysis/Dashboard)
+
+- 🌐 [View on Tableau Public](https://public.tableau.com/app/profile/skyeranjan/viz/Tableau-GoogleDashboardRegion/Dashboard)
+- 📂 [Download Tableau Workbook (.twbx)](https://github.com/skyeranjan/gadget-dashboard/blob/main/Google%20dashboard%20Ranjan.twbx)
+
 
