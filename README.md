@@ -37,7 +37,6 @@ This dashboard is part of my portfolio for securing a Data Analysis Apprenticesh
 ## 📎 Dashboard Access
 
 - 🌐 [View on Tableau Public](https://public.tableau.com/views/GoogledashboardRanjan/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-- 📂 [Download Tableau Workbook (.twbx)](https://github.com/slayerranjan/gadget-dashboard/blob/main/Google%20dashboard%20Ranjan.twbx)
 - 📄 [Download PDF Summary](https://github.com/slayerranjan/gadget-dashboard/blob/main/Dashboard%201%20(2).pdf)
 - 📊 [Download Alternate PDF Version](https://github.com/slayerranjan/gadget-dashboard/blob/main/tableaudash11.pdf)
 
