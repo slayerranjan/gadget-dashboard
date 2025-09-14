@@ -34,9 +34,12 @@ Built using Tableau, this dashboard analyzes sales performance, regional profita
 ## 🚀 Goal
 This dashboard is part of my portfolio for securing a Data Analysis Apprenticeship at Google. It reflects my ability to turn raw data into actionable business insights.
 
-## 📎 Dashboard Link
+## 📎 Dashboard Access
 
-- 🌐 [View on Tableau Public](https://public.tableau.com/app/profile/skyeranjan/viz/Tableau-GoogleDashboardRegion/Dashboard)
-- 📂 [Download Tableau Workbook (.twbx)](https://github.com/skyeranjan/gadget-dashboard/blob/main/Google%20dashboard%20Ranjan.twbx)
+- 🌐 [View on Tableau Public](https://public.tableau.com/app/profile/slayerranjan/viz/Tableau-GoogleDashboardRegion/Dashboard)
+- 📂 [Download Tableau Workbook (.twbx)](https://github.com/slayerranjan/gadget-dashboard/blob/main/Google%20dashboard%20Ranjan.twbx)
+- 📄 [Download PDF Summary](https://github.com/slayerranjan/gadget-dashboard/blob/main/Dashboard%201.0.pdf)
+- 📊 [Download PowerPoint Version](https://github.com/slayerranjan/gadget-dashboard/blob/main/Dashboard%201%20(1).pptx)
+
 
 
